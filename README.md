@@ -5,4 +5,4 @@
 
 选择语言查看 Paper7 屏幕校色应用的功能、安装要求和版本信息。
 
-Choose a language to view the Paper7 Screen Calibration app features, requirements, and release information.
+Choose a language to view the Paper7 Screen Tuner app features, requirements, and release information.
