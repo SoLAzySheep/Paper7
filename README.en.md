@@ -3,7 +3,7 @@
 | [简体中文](README.zh-CN.md) | **English** |
 |:---:|:---:|
 
-Paper7 Screen Calibration is an Android display color adjustment app primarily intended for the Paper7. The app was developed entirely with AI. Related resources are available from [Keji Wanjia](https://www.kejiwanjia.net/).
+Paper7 Screen Tuner is an Android display color adjustment app primarily intended for the Paper7. The app was developed entirely with AI. Related resources are available from [Keji Wanjia](https://www.kejiwanjia.net/).
 
 ## Features
 
