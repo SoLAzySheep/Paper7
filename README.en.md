@@ -1,4 +1,4 @@
-# Paper7 Screen Tuner 1.8.14
+# Paper7 Screen Tuner
 
 | [简体中文](README.zh-CN.md) | **English** |
 |:---:|:---:|
