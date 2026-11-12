@@ -1,4 +1,4 @@
-# Paper7 屏幕校色 1.8.14
+# Paper7 屏幕校色
 
 | [简体中文](README.zh-CN.md) | [English](README.en.md) |
 |:---:|:---:|
